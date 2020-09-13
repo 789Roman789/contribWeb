@@ -1,0 +1,25 @@
+.b-center {
+    display: block;
+    margin: 0 auto;
+}
+.t-center {
+    float: none;
+    margin: 0 auto;
+}
+.t-main{
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: left;
+    line-height: 1px;
+}
+.t-addition {
+    color: gray;
+    font-size: 12px;
+    font-family: sans-serif;
+    text-align: left;
+    line-height: 1px;
+}
+.p-gray{
+    color: gray;
+}
